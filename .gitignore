@@ -1,0 +1,56 @@
+/djangoapp/static/
+/djangoapp/media/
+/djangoapp/project/local_settings.py
+gunicorn-error-log
+__localcode
+/data/
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+# db.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# pyenv
+.python-version
+
+# celery
+celerybeat-schedule.*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# mypy
+.mypy_cache/
+
+# Visual Studio Code #
+.vscode/*
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+# PDF #
+*.PDF
+*.pdf
