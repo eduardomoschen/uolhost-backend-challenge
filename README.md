@@ -57,7 +57,3 @@ Abaixo estão algumas imagens que ilustram o funcionamento da aplicação
 ### Relatório de usuários cadastrados
 
 ![Relatório de usuários cadastrados](images/relatorio_jogadores.png)
-
----
-
-📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/eduardo-moschen)
